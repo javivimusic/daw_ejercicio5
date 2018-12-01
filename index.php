@@ -18,7 +18,8 @@ var_dump($array2);
     </head>
     <body>
 <?php
-echo "<h2>Añado cambios";
+echo "<h2>Añado cambios</h2>";
+echo "<p>Añadimos otra linea</p>";
 ?>
     </body>
 </html>
