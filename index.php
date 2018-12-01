@@ -18,7 +18,7 @@ var_dump($array2);
     </head>
     <body>
 <?php
-// put your code here
+echo "<h2>Añado cambios";
 ?>
     </body>
 </html>
